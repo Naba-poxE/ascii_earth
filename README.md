@@ -4,7 +4,7 @@
 ## Run the script
  
  1. Open Termina
- 2. Clone Directory: ```git clone https://github.com/Naba-poxE/ascii-earth.git```
+ 2. Clone Directory: ```git clone https://github.com/Naba-poxE/ascii_earth.git```
  3. ```cd Donut```
  4. Install dependencies:   ```pip3 install -r requirements.txt```
  5. Run [main.py](main.py): `python main.py`
