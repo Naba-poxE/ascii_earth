@@ -1,7 +1,7 @@
 # ASCII Earth
 3D spinning ASCII Earth 2.0 created using Python with Pygame.
 
-![Demo](https://im2.ezgif.com/tmp/ezgif-2-7dbcbb2d8cbf.gif)
+![Demo](https://i.imgur.com/D6qCzId.gif)
 
 ## Run the script
  
