@@ -11,7 +11,9 @@
  4. Install dependencies:   ```pip3 install -r requirements.txt```
  5. Run [main.py](main.py): `python3 main.py`
  # Oneline code
- ```git clone https://github.com/Naba-poxE/ascii_earth.git && cd ascii_earth && pip3 install -r requirements.txt && python3 main.py```
+ ```
+ git clone https://github.com/Naba-poxE/ascii_earth.git && cd ascii_earth && pip3 install -r requirements.txt && python3 main.py
+ ```
 
 ## For More info
 
